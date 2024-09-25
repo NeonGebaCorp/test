@@ -1,5 +1,6 @@
 #!/bin/bash
 
+apt install jq -y
 # Your Cloudflare details
 zone_id="919418af68c3d817afeef7606dace180"
 api_token="FlNUa3JMcG831nfxK5bl-6xbk39WO2HVW_K7x9Fi"
